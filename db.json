@@ -1,0 +1,350 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": "Çatdırılma və malların təhvil verilməsi necə həyata keçirilir ?",
+      "answer": "Türkiyədən həftədə 6 dəfə, Amerikadan və Çindən isə həftədə 1 dəfə daşınma həyata keçirilir. Bağlamalar ofislərimizə daxil olandan 3 saat sonra təhvil verilməyə başlanılır."
+    },
+    {
+      "id": 2,
+      "question": "Hansı məhsullar gətirilmir?",
+      "answer": "Türkiyədən həftədə 6 dəfə, Amerikadan və Çindən isə həftədə 1 dəfə daşınma həyata keçirilir. Bağlamalar ofislərimizə daxil olandan 3 saat sonra təhvil verilməyə başlanılır."
+    },
+    {
+      "id": 3,
+      "question": "Nə qədər məbləğdə sifariş edə bilərəm?",
+      "answer": "Türkiyədən həftədə 6 dəfə, Amerikadan və Çindən isə həftədə 1 dəfə daşınma həyata keçirilir. Bağlamalar ofislərimizə daxil olandan 3 saat sonra təhvil verilməyə başlanılır."
+    },
+    {
+      "id": 4,
+      "question": "Azərbaycan kartlarını qəbul etməyən saytlardan necə sifariş edə bilərəm ?",
+      "answer": "Türkiyədən həftədə 6 dəfə, Amerikadan və Çindən isə həftədə 1 dəfə daşınma həyata keçirilir. Bağlamalar ofislərimizə daxil olandan 3 saat sonra təhvil verilməyə başlanılır."
+    },
+    {
+      "id": 5,
+      "question": "Sifarişim neçə günə çatdırılır ?",
+      "answer": "Türkiyədən həftədə 6 dəfə, Amerikadan və Çindən isə həftədə 1 dəfə daşınma həyata keçirilir. Bağlamalar ofislərimizə daxil olandan 3 saat sonra təhvil verilməyə başlanılır."
+    },
+    {
+      "id": 6,
+      "question": "Çatdırılma haqqı necə hesablanır ?",
+      "answer": "Türkiyədən həftədə 6 dəfə, Amerikadan və Çindən isə həftədə 1 dəfə daşınma həyata keçirilir. Bağlamalar ofislərimizə daxil olandan 3 saat sonra təhvil verilməyə başlanılır."
+    }
+  ],
+  "work": [
+    {
+      "id": "1",
+      "content": "Qeydiyyatdan keçirsiniz",
+      "image": "./assets/images/Banners/image4.png"
+    },
+    {
+      "id": "2",
+      "content": "Saytımıza daxil olaraq məhsulu sifariş edirsiniz",
+      "image": "./assets/images/Banners/image5.png"
+    },
+    {
+      "id": "3",
+      "content": "Ən qısa zamanda məhsulunuzu sizə çatdırırıq",
+      "image": "./assets/images/Banners/image6.png"
+    }
+  ],
+  "places": [
+    {
+      "id": "Bərdə",
+      "place": "Bərdə",
+      "tariffs": {
+        "adi": [
+          "1.95 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ],
+        "maye": [
+          "0.75 USD",
+          "3.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ]
+      }
+    },
+    {
+      "id": "Tərtər",
+      "place": "Tərtər",
+      "tariffs": {
+        "adi": [
+          "0.95 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ],
+        "maye": [
+          "0.75 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ]
+      }
+    },
+    {
+      "id": "Mingəcevir",
+      "place": "Mingəcevir",
+      "tariffs": {
+        "adi": [
+          "0.95 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ],
+        "maye": [
+          "0.75 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ]
+      }
+    },
+    {
+      "id": "Ağcabədi",
+      "place": "Ağcabədi",
+      "tariffs": {
+        "adi": [
+          "0.95 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ],
+        "maye": [
+          "0.75 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ]
+      }
+    },
+    {
+      "id": "Gəncə",
+      "place": "Gəncə",
+      "tariffs": {
+        "adi": [
+          "0.95 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ],
+        "maye": [
+          "0.75 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ]
+      }
+    },
+    {
+      "id": "Lənkaran",
+      "place": "Lənkaran",
+      "tariffs": {
+        "adi": [
+          "0.95 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ],
+        "maye": [
+          "0.75 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ]
+      }
+    },
+    {
+      "id": "Xırdalan",
+      "place": "Xırdalan",
+      "tariffs": {
+        "adi": [
+          "0.95 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ],
+        "maye": [
+          "0.75 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ]
+      }
+    },
+    {
+      "id": "Sumqayıt",
+      "place": "Sumqayıt",
+      "tariffs": {
+        "adi": [
+          "0.95 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ],
+        "maye": [
+          "0.75 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ]
+      }
+    },
+    {
+      "id": "Şəki",
+      "place": "Şəki",
+      "tariffs": {
+        "adi": [
+          "0.95 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ],
+        "maye": [
+          "0.75 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ]
+      }
+    },
+    {
+      "id": "Balakən",
+      "place": "Balakən",
+      "tariffs": {
+        "adi": [
+          "0.95 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ],
+        "maye": [
+          "0.75 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ]
+      }
+    },
+    {
+      "id": "Qəbələ",
+      "place": "Qəbələ",
+      "tariffs": {
+        "adi": [
+          "0.95 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ],
+        "maye": [
+          "0.75 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ]
+      }
+    },
+    {
+      "id": "Balakən",
+      "place": "Balakən",
+      "tariffs": {
+        "adi": [
+          "0.95 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ],
+        "maye": [
+          "0.75 USD",
+          "1.00 USD",
+          "2.50 USD",
+          "3.50 USD",
+          "4.00 USD",
+          "kg / 3.00 USD"
+        ]
+      }
+    }
+  ],
+  "sliders": [
+    {
+      "id": 1,
+      "title": "Keyfiyyətli xidmət bizimlə!",
+      "text": "Məhsulunuzu seçin, sizin üçün biz gətirək",
+      "image": "./assets/images/Banners/image7.png"
+    },
+    {
+      "id": 2,
+      "title": "Keyfiyyətli xidmət bizimlə!",
+      "text": "Məhsulunuzu seçin, sizin üçün biz gətirək",
+      "image": "./assets/images/Banners/image7.png"
+    },
+    {
+      "id": 3,
+      "title": "Keyfiyyətli xidmət bizimlə!",
+      "text": "Məhsulunuzu seçin, sizin üçün biz gətirək",
+      "image": "./assets/images/Banners/image7.png"
+    },
+    {
+      "id": 4,
+      "title": "Keyfiyyətli xidmət bizimlə!",
+      "text": "Məhsulunuzu seçin, sizin üçün biz gətirək",
+      "image": "./assets/images/Banners/image7.png"
+    }
+  ],
+  "privacy": [
+    {
+      "id": 1,
+      "title": "İstifadəçi və gizlilik şərtləri",
+      "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,  comes from a line in section 1.10.32"
+    }
+  ]
+}
