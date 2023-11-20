@@ -290,28 +290,6 @@
           "kg / 3.00 USD"
         ]
       }
-    },
-    {
-      "id": "Beylaqan",
-      "place": "Beylaqan",
-      "tariffs": {
-        "adi": [
-          "0.95 USD",
-          "1.00 USD",
-          "2.50 USD",
-          "3.50 USD",
-          "4.00 USD",
-          "kg / 3.00 USD"
-        ],
-        "maye": [
-          "0.75 USD",
-          "1.00 USD",
-          "2.50 USD",
-          "3.50 USD",
-          "4.00 USD",
-          "kg / 3.00 USD"
-        ]
-      }
     }
   ],
   "sliders": [
